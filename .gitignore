@@ -4,3 +4,11 @@
 
 /.vs
 /SouXiaoAV-Engine/obj
+/SouXiaoAV-Engine/bin
+/Debuger/
+/Feature-Engineering/obj
+/Feature-Engineering/bin
+*.pdb
+*.dll
+*.json
+*.exe

@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path=".\SouXiaoAV-Engine\SouXiaoAV-Engine.csproj" />
+  <Project Path="Debuger/Debuger.csproj" Id="e0dca264-26f6-4c35-94a3-76418723038c" />
+  <Project Path="Feature-Engineering/Feature-Engineering.csproj" Id="979612f0-0418-4447-9ade-c2db22978dc2" />
+  <Project Path="SouXiaoAV-Engine/SouXiaoAV-Engine.csproj" />
 </Solution>
